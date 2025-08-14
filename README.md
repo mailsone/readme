@@ -1,5 +1,5 @@
 # readme
-## 🚀 New Mac Installation
+## 🚀 New Mac Setup
 
 To set up a new Mac, follow these steps:
 
